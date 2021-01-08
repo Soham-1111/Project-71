@@ -1,0 +1,10 @@
+.what{
+cursor: pointer;
+}
+
+.img_modal{
+display:inline-block;
+}
+.modal-body{
+    text-align: center;
+}
